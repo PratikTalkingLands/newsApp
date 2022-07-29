@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.tl-logo {
+  margin-right: 20px;
+  height: 35px;
+  width: 35px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.card-img-top {
+  width: 287px;
+  height: 160px;
+}
